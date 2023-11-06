@@ -18,7 +18,7 @@ let stats=[
             <span>{stat} : {value}</span>
             <hr class="mt-1">
             {#if bonus > 0}
-            <span class="badge variant-filled-success mt-3">{#if bonus >= 0}+{/if}{bonus}</span> <!--If it's a negative bonus variant should be filled error-->
+            <span class="badge variant-filled-success mt-3">{#if bonus >= 0}+{/if}{bonus}</span> 
             {:else}
             <span class="badge variant-filled-error mt-3">{#if bonus >= 0}+{/if}{bonus}</span>
             {/if}

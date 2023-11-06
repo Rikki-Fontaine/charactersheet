@@ -7,7 +7,7 @@
   	import Attacks from "../components/attacks.svelte";
 </script>
 
-<div class="flex-col justify-center mt-1">
+<div class="flex-col justify-center mt-1 p-2">
 	<Health/>
 	<div class="flex md:justify-around justify-between p-2">
 		<DeathSaves/>
