@@ -18,7 +18,7 @@
             </ListBox>
         </div>           
 
-        <div class="w-3/4 md:w-1/4 p-2 mt-2 ml-2 text-center rounded-md variant-ghost-primary">
+        <div class="w-3/4 md:w-1/4 p-2 mt-2 ml-2 text-center rounded-md variant-ghost-error">
             <span>Failure</span>
             <ListBox multiple>
                 <ListBoxItem bind:group={fail} name="fail" value="1">1</ListBoxItem>

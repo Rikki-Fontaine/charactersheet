@@ -4,7 +4,7 @@
 
 
 
-<dl class="list-dl text-center variant-ghost-error rounded-md w-40">
+<dl class="list-dl text-center variant-ghost-primary rounded-md w-40">
     <span>Attacks/Spells</span>
     <hr>
 
