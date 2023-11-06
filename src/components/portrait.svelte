@@ -9,6 +9,7 @@
     let experience = 1000;
 </script>
 
+<!--This needs a slightly better layout-->
 
 <div class="flex justify-between md:justify-around mb-2 p-2">
     <div class="grid grid-cols-1 gap-5 mt-2">
