@@ -17,7 +17,7 @@
 	</div>
 	
     <div>
-		<span class="badge bg-error-500">🔥</span>
+		<span class="badge bg-warning-500">🔥</span>
 		<span class="flex-auto">
 			<dt>Fire Ball</dt>
 			<dd>2d12 | F</dd>
