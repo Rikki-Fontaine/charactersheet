@@ -10,7 +10,7 @@
 </script>
 
 
-<div class="flex justify-around mb-2 ml-2 p-2">
+<div class="flex justify-between md:justify-around mb-2 p-2">
     <div class="grid grid-cols-1 gap-5 mt-2">
         <span>Name: {name}</span>
         <span>Class: {playerClass}</span>
